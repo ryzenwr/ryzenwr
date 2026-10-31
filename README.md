@@ -1,79 +1,98 @@
-👨‍💻 RYZENWR
+🎮 RYZENWR
 
-Developer • Programmer • Systems Creator
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:171717,100:0066CC&height=180&section=header&text=RYZENWR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Ideas%20Into%20Reality&descAlignY=55&descSize=15" width="100%"/>
-</p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=008CFF&center=true&vCenter=true&width=600&lines=Developer+%26+Programmer;Discord+Bot+Developer;Roblox+%26+SA-MP+Systems;Web+Developer;Always+Learning+New+Technologies" />
-</p>---
-
-🧑‍💻 ABOUT ME
-
-Olá! Sou RyzenWR, desenvolvedor interessado em programação, criação de sistemas, automações e desenvolvimento de projetos digitais.
-
-Gosto de transformar ideias em projetos funcionais, explorar novas tecnologias e desenvolver soluções modernas.
-
-- 💻 Desenvolvimento de sistemas e scripts.
-- 🌐 Criação de sites e interfaces.
-- 🤖 Desenvolvimento de bots para Discord.
-- 🎮 Sistemas para Roblox e SA-MP.
-- ⚙️ Automação e personalização de projetos.
-
----
-
-🛠️ TECHNOLOGIES & SKILLS
-
-🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>🤖 Programming & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,lua" />
-</p>🎮 Game Development
-
-- Minecraft
-- Roblox
-- SA-MP
-
----
-
-🚀 WHAT I CREATE
-
-Área| Projetos
-🌐 Web| Sites, interfaces e painéis
-🤖 Discord| Bots, tickets e sistemas administrativos
-🎮 Roblox| Sistemas, interfaces e mecânicas
-💻 SA-MP| Gamemodes e sistemas Pawn
-⚙️ Scripts| Automação e personalização
-
----
-
-📊 GITHUB STATISTICS
+DESENVOLVEDOR ROBLOX • PROGRAMADOR LUAU
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ryzenwr&show_icons=true&theme=github_dark&hide_border=true&title_color=008CFF&icon_color=008CFF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzenwr&layout=compact&theme=github_dark&hide_border=true&title_color=008CFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:292929,100:E2231A&height=200&section=header&text=RYZENWR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DESENVOLVEDOR%20DE%20JOGOS%20ROBLOX&descAlignY=60&descSize=18" width="100%"/>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=ryzenwr&theme=dark&hide_border=true&ring=008CFF&fire=008CFF&currStreakLabel=008CFF" width="65%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&duration=3000&pause=1000&color=E2231A&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+ROBLOX;PROGRAMA%C3%87%C3%83O+LUAU;CRIADOR+DE+SISTEMAS+PARA+JOGOS;DESENVOLVEDOR+DE+INTERFACES;CRIANDO+MEU+PR%C3%93PRIO+MUNDO" />
 </p>---
 
-🎯 MY OBJECTIVE
+👤 SOBRE MIM
 
-Continuar evoluindo como desenvolvedor, criar projetos cada vez melhores e transformar criatividade em tecnologia.
+Olá! Eu sou RyzenWR, desenvolvedor interessado no universo Roblox e na criação de experiências interativas.
 
-Code • Create
+🎮 Desenvolvo sistemas, interfaces, scripts e mecânicas para jogos.
+
+- 🧱 Desenvolvimento no Roblox Studio.
+- 💻 Programação em Luau.
+- ⚙️ Criação de sistemas personalizados.
+- 📱 Interfaces adaptadas para dispositivos móveis.
+- 🚀 Desenvolvimento de mecânicas e experiências.
 
 ---
 
-🌐 CONNECT WITH ME
+🧰 MINHAS FERRAMENTAS DE DESENVOLVIMENTO
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python,html,css,js" />
+</p>Tecnologia| Utilização
+Luau| Programação de scripts Roblox
+Roblox Studio| Desenvolvimento de jogos
+HTML| Estrutura de sites
+CSS| Design e interfaces
+JavaScript| Funcionalidades para sites
+Python| Bots e automações
+
+---
+
+🎮 DESENVOLVIMENTO ROBLOX
+
+🔧 O QUE EU DESENVOLVO
+
+- 🎯 Sistemas de combate e jogabilidade.
+- 🚗 Sistemas de veículos e drift.
+- 🪖 Sistemas militares e patentes.
+- 📱 HUDs e interfaces para celular.
+- 🛠️ Sistemas administrativos.
+- 🧩 Scripts e mecânicas personalizadas.
+
+---
+
+🧱 MEUS PROJETOS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBLOX-STUDIO-E2231A?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LUAU-PROGRAMA%C3%87%C3%83O-00A2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DESENVOLVIMENTO-DE_JOGOS-222222?style=for-the-badge"/>
+</p>Meu foco atual:
+
+- Criar sistemas completos para Roblox.
+- Desenvolver interfaces modernas.
+- Melhorar mecânicas e otimização para celulares.
+- Criar experiências originais.
+
+---
+
+📊 ESTATÍSTICAS DO GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryzenwr&show_icons=true&theme=dark&hide_border=true&title_color=E2231A&icon_color=E2231A"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzenwr&layout=compact&theme=dark&hide_border=true&title_color=E2231A"/>
+</p>---
+
+🏆 MINHA MENTALIDADE COMO DESENVOLVEDOR
+
+local Desenvolvedor = {
+    Nome = "RyzenWR",
+    Foco = "Desenvolvimento Roblox",
+    Linguagem = "Luau",
+    Objetivo = "Criar Jogos Incríveis"
+}
+
+print("Bem-vindo ao meu mundo!")
+
+---
+
+🌐 ME ENCONTRE
 
 <p align="center">
   <a href="https://github.com/ryzenwr">
-    <img src="https://img.shields.io/badge/GitHub-ryzenwr-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GITHUB-RYZENWR-181818?style=for-the-badge&logo=github"/>
   </a>
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:171717,100:050505&height=100&section=footer"/>
+  <b>DESENVOLVER • PROGRAMAR • CRIAR • JOGAR</b>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2231A,50:292929,100:111111&height=120&section=footer" width="100%"/>
 </p>
